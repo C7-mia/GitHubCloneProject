@@ -1,3 +1,2 @@
-git add feature.txt
-git commit-m "add This is new feature"
-
+git add README.md
+ git commit -m "Modify README in feature-greeting branch"
